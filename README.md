@@ -4,6 +4,8 @@
 
 TechCrunch is a popular Technology and Business website that enables users to stay up to date with the latest news and events happening in the world. As a Technology lover myself I was fascinated by the opportunity to make the TechCrunch experience better. I chose to explore how we could connect users with the information they love faster, and in an easier and more convenient manner. 
 
+![](https://github.com/anerichouhan/dh150/blob/master/Screen%20Shot%202020-04-08%20at%2010.05.28%20AM.png)
+
 ## Design Statement
 How might we structure the content of TechCrunch and build interactions that enable users to connect with the information they need and love faster and in a simpler more enjiyable way?
 
@@ -17,6 +19,11 @@ In order to understand the needs, motivations, and pains of my users better, I c
 
 ## Personas & Scenarios
 The next step in my process was to document the motivations, needs, and pains uncovered through the contextual interviews into personas and scenarios. I came up with 3 of each and associated them with key tasks to be accomplished through the website. You can learn more [here](https://github.com/anerichouhan/dh150-personas)
+
+
+![Persona 1](https://github.com/anerichouhan/dh150-personas/blob/master/1.jpg)
+![Persona 2](https://github.com/anerichouhan/dh150-personas/blob/master/3.jpg)
+![Persona 3](https://github.com/anerichouhan/dh150-personas/blob/master/5.jpg)
 
 ## Low fidelity Wireframes
 The next step was to scketch up some ideas on what the website flows could look like and how different screens would connect to each other. I also tested the lowfidelity wireframe with the user to gauge if there were issues with it.You can read more [here.](https://github.com/anerichouhan/lowfi_wireflows/blob/master/README.md)
