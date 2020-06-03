@@ -4,7 +4,7 @@
 
 TechCrunch is a popular Technology and Business website that enables users to stay up to date with the latest news and events happening in the world. It connects users with news articles, provides daily and weekly newsletters, shares information about events happening in the technology and business worlds, and even has a premium subscription called Extra Crunch. While the website has several pieces of information and many features, it is not fully organized in a way that makes it easy for users to find what they are looking for. As a Technology lover myself I was fascinated by the opportunity to make the TechCrunch experience better. I chose to explore how we could connect users with the information they love faster, and in an easier and more convenient manner. 
 
-![](https://raw.github.com/anerichouhan/dh150/blob/master/Screen%20Shot%202020-04-08%20at%201.50.43%20PM.png)
+![](https://raw.githubusercontent.com/anerichouhan/dh150/blob/master/Screen%20Shot%202020-04-08%20at%201.50.43%20PM.png)
 
 ## Design Statement
 How might we structure the content of TechCrunch and build interactions that enable users to connect with the information they need and love faster and in a simpler more enjiyable way? My project will focus on understanding what users seek on TechCrunch and creating a UX that aligns with those needs as well as Nielson’s 10 Heuristics. My goal is to create a user experience that enables users to successfully find the content they are looking for and enjoy the process of consuming and interacting with the content.
@@ -21,7 +21,7 @@ In order to further understand the needs, motivations, and pains of my users bet
 Storytelling is an important part of User Experience as it fosters empathy and provides clarity on the journey a user goes through. The next step in my process was to document the motivations, needs, and pains uncovered through the contextual interviews into personas and scenarios. I consolidated 5 of my user interviews into personas, empathy maps, scenarios, and journey maps to communicate the insights I gained through user research. I came up with 3 of each and associated them with key tasks to be accomplished through the website. [Read more...](https://github.com/anerichouhan/dh150-personas)
 
 
-![Persona 1](https://raw.github.com/anerichouhan/dh150-personas/blob/master/1.jpg)
+![Persona 1](https://raw.githubusercontent.com/anerichouhan/dh150-personas/blob/master/1.jpg)
 ![Persona 2](https://github.com/anerichouhan/dh150-personas/blob/master/3.jpg)
 ![Persona 3](https://github.com/anerichouhan/dh150-personas/blob/master/5.jpg)
 
