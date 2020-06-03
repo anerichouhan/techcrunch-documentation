@@ -2,7 +2,7 @@
 
 ## Introduction
 
-TechCrunch is a popular Technology and Business website that enables users to stay up to date with the latest news and events happening in the world. It connects users with news articles, provides daily and weekly newsletters, shares information about events happening in the technology and business worlds, and even has a premium subscription called Extra Crunch. While the website has several pieces of information and many features, it is not organized in a way that makes it easy for users to find what they are looking for. As a Technology lover myself I was fascinated by the opportunity to make the TechCrunch experience better. I chose to explore how we could connect users with the information they love faster, and in an easier and more convenient manner. 
+TechCrunch is a popular Technology and Business website that enables users to stay up to date with the latest news and events happening in the world. It connects users with news articles, provides daily and weekly newsletters, shares information about events happening in the technology and business worlds, and even has a premium subscription called Extra Crunch. While the website has several pieces of information and many features, it is not fully organized in a way that makes it easy for users to find what they are looking for. As a Technology lover myself I was fascinated by the opportunity to make the TechCrunch experience better. I chose to explore how we could connect users with the information they love faster, and in an easier and more convenient manner. 
 
 ![](https://github.com/anerichouhan/dh150/blob/master/Screen Shot 2020-04-08 at 10.05.28 AM.png)
 
@@ -10,8 +10,7 @@ TechCrunch is a popular Technology and Business website that enables users to st
 How might we structure the content of TechCrunch and build interactions that enable users to connect with the information they need and love faster and in a simpler more enjiyable way? My project will focus on understanding what users seek on TechCrunch and creating a UX that aligns with those needs as well as Nielson’s 10 Heuristics. My goal is to create a user experience that enables users to successfully find the content they are looking for and enjoy the process of consuming and interacting with the content.
 
 ## Competitor analysis
-In order to understand the product more in depth and identify areas of focus, I conducted a heuristics evaluation of the site. 
-[Read More...](https://github.com/anerichouhan/dh150/blob/master/README.md)
+In order to understand the product more in depth and identify areas of focus, I conducted a heuristics evaluation of the site. A heuristics evaluation aims to examine key UX principles to assess the usability of the website. It is usually performed by an expert who evaluates the website on each heuristic gives a severity rating to show the priority of fixing elements examined under each heursistic. [Read More...](https://github.com/anerichouhan/dh150/blob/master/README.md)
 I also conducted a usability test with predefined tasks to understand specific issues with the website. You can learn more about the usability test [here.](https://github.com/anerichouhan/dh150-assignment2)
 
 ## Contextual Inquiry
