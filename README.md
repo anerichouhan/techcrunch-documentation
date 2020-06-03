@@ -4,7 +4,8 @@
 
 TechCrunch is a popular Technology and Business website that enables users to stay up to date with the latest news and events happening in the world. It connects users with news articles, provides daily and weekly newsletters, shares information about events happening in the technology and business worlds, and even has a premium subscription called Extra Crunch. While the website has several pieces of information and many features, it is not fully organized in a way that makes it easy for users to find what they are looking for. As a Technology lover myself I was fascinated by the opportunity to make the TechCrunch experience better. I chose to explore how we could connect users with the information they love faster, and in an easier and more convenient manner. 
 
-![](https://raw.githubusercontent.com/anerichouhan/dh150/master/Screen%20Shot%202020-04-08%20at%201.50.43%20PM.png)
+![](https://raw.githubusercontent.com/anerichouhan/dh150/master/Screen%20Shot%202020-04-08%20at%2010.05.28%20AM.png)
+
 
 ## Design Statement
 How might we structure the content of TechCrunch and build interactions that enable users to connect with the information they need and love faster and in a simpler more enjiyable way? My project will focus on understanding what users seek on TechCrunch and creating a UX that aligns with those needs as well as Nielson’s 10 Heuristics. My goal is to create a user experience that enables users to successfully find the content they are looking for and enjoy the process of consuming and interacting with the content.
