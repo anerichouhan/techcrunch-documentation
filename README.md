@@ -21,7 +21,7 @@ In order to further understand the needs, motivations, and pains of my users bet
 Storytelling is an important part of User Experience as it fosters empathy and provides clarity on the journey a user goes through. The next step in my process was to document the motivations, needs, and pains uncovered through the contextual interviews into personas and scenarios. I consolidated 5 of my user interviews into personas, empathy maps, scenarios, and journey maps to communicate the insights I gained through user research. I came up with 3 of each and associated them with key tasks to be accomplished through the website. [Read more...](https://github.com/anerichouhan/dh150-personas)
 
 
-![Persona 1](https://github.com/anerichouhan/dh150-personas/blob/master/1.jpg)
+![Persona 1](https://raw.github.com/anerichouhan/dh150-personas/blob/master/1.jpg)
 ![Persona 2](https://github.com/anerichouhan/dh150-personas/blob/master/3.jpg)
 ![Persona 3](https://github.com/anerichouhan/dh150-personas/blob/master/5.jpg)
 
