@@ -19,6 +19,8 @@ While a heuristic evaluation is certainly helpful in ucovering usbability issues
 
 I assigned the particpant three specifc tasks with the goal of observing their behavior and interaction with the website as they navigated the site. The purpose of the study was to uncover issues with usability, and discoverability on the website. By oberserving user behavior, my goal is to identify gaps in the website's UX that should be worked on in order to provide a better overall user experience. [Read more...](https://github.com/anerichouhan/dh150-assignment2)
 
+![](https://raw.githubusercontent.com/anerichouhan/dh150-assignment2/master/Screen%20Shot%202020-06-03%20at%207.57.47%20PM.png)
+
 ## Contextual Inquiry
 In order to further understand the needs, motivations, and pains of my users better, I conducted an in depth user interview that can be found [here.](https://docs.google.com/document/d/13ft6Ay2HC54sZkmZsTwueJcfxWOrvhDBiCGFAizyuGI/edit?usp=sharing) I opted for a remote user interview with participitory observation. I framed a set of questions to understand the overall context, motivations, and behaviors of my target user. I also asked them to share their screen as I observed their interaction with online content. [Read more...](https://github.com/anerichouhan/dh150-assignment04/blob/master/README.md)
 
