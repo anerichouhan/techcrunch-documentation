@@ -37,6 +37,8 @@ Storytelling is an important part of User Experience as it fosters empathy and p
 ![Wireflow 1](https://raw.githubusercontent.com/anerichouhan/lowfi_wireflows/master/IMG_0411.JPG)
 The next step was to scketch up some ideas on what the website flows could look like and how different screens would connect to each other. I also tested the lowfidelity wireframe with the user to gauge if there were issues with it. You can read more [here.](https://raw.githubusercontent.com/anerichouhan/lowfi_wireflows/master/README.md) I realized that the low fidelity wireframes I drew out could be developed more before I dove into making my hi fidelity mock ups. So I re did my wireframes using a tool called whimsical. 
 
+![](https://raw.githubusercontent.com/anerichouhan/high-fidelity-wireframes/master/Screen%20Shot%202020-06-03%20at%209.39.34%20PM.png)
+
 
 ## High Fidelity Wireframes
 After combining the feedback I received on the wireframes, I started designing GUIs. I went through several iterations and the final version can be found [here.](https://www.figma.com/proto/V0V8dwrWILpboToyAR4MYm/TechCrunch?node-id=12%3A4&viewport=-184%2C-712%2C0.3589796721935272&scaling=min-zoom)
