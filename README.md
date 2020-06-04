@@ -66,8 +66,9 @@ Over time key changes included:
 - Eliminated some extra steps in flows
 - Ensure better wireframe connectivity
 
-
 ## Pitch Video
 
 ## Conclusion
-On the whole, I had a great experience with redesigning the Techcrunch website. Systematically going through the design and research process developed my skills of empathzing with users and defining clear problem statements that can be iteratively solved. I learned several new skills and especially loved learning how to conduct cognitive walkthroughs, and assessing accessibility. 
+On the whole, I had a great experience with redesigning the Techcrunch website. Systematically going through the design and research process developed my skills of empathzing with users and defining clear problem statements that can be iteratively solved. I learned several new skills and especially loved learning how to conduct cognitive walkthroughs, and assessing accessibility. While designing my screens, I realized how important it is to focus on specific tasks indvidually than to try and address multiple problems at once. While starting off, I felt slightly overwhelmed trying to tackle the whole website at once. But once I identified important parts and prioritized my features I was able to focus well. I thoroughly enjoyed involving users in the design process and learning how to adapt my designs as I built them. 
+
+All in all, this was a super fun project to work on! 
