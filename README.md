@@ -34,18 +34,18 @@ Storytelling is an important part of User Experience as it fosters empathy and p
 ![Persona 3](https://raw.githubusercontent.com/anerichouhan/dh150-personas/master/5.jpg)
 
 ## Low fidelity Wireframes
-![Wireflow 1](https://github.com/anerichouhan/lowfi_wireflows/blob/master/IMG_0411.JPG)
-The next step was to scketch up some ideas on what the website flows could look like and how different screens would connect to each other. I also tested the lowfidelity wireframe with the user to gauge if there were issues with it.You can read more [here.](https://github.com/anerichouhan/lowfi_wireflows/blob/master/README.md) I realized that the low fidelity wireframes I drew out could be developed more before I dove into making my hi fidelity mock ups. So I re did my wireframes using a tool called whimsical. 
+![Wireflow 1](https://raw.githubusercontent.com/anerichouhan/lowfi_wireflows/master/IMG_0411.JPG)
+The next step was to scketch up some ideas on what the website flows could look like and how different screens would connect to each other. I also tested the lowfidelity wireframe with the user to gauge if there were issues with it.You can read more [here.](https://raw.githubusercontent.com/anerichouhan/lowfi_wireflows/master/README.md) I realized that the low fidelity wireframes I drew out could be developed more before I dove into making my hi fidelity mock ups. So I re did my wireframes using a tool called whimsical. 
 
 
 ## High Fidelity Wireframes
 After combining the feedback I received on the wireframes, I started designing GUIs. I went through several iterations and the final version can be found [here.](https://www.figma.com/proto/V0V8dwrWILpboToyAR4MYm/TechCrunch?node-id=12%3A4&viewport=-184%2C-712%2C0.3589796721935272&scaling=min-zoom)
 
-![](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%2012.40.14%20PM.png)
+![](https://raw.githubusercontent.com/anerichouhan/high-fidelity-wireframes/master/Screen%20Shot%202020-05-27%20at%2012.40.14%20PM.png)
 
 The purpose of these high fidelity wireframes was to visualize new features like categorization of articles under tech topics and saving articles to a personal library.I went through several rounds of iterations and kept asking users around me for feedback to improve upon my designs. The prototype submitted provides users to do the following tasks:
 
-![](https://github.com/anerichouhan/high-fidelity-wireframes/blob/master/Screen%20Shot%202020-05-27%20at%2012.49.30%20PM.png)
+![](https://raw.githubusercontent.com/anerichouhan/high-fidelity-wireframes/master/Screen%20Shot%202020-05-27%20at%2012.49.30%20PM.png)
 
 ***Tasks***
 1. View News of the Day articles quickly as soon as one opens the site
